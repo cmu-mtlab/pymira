@@ -1,2 +1,4 @@
-# pymira
-Python implementation of MIRA using pycdec
+pymira
+======
+
+An implementation of MIRA using python and pycdec
